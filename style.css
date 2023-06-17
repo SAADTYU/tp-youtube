@@ -1,0 +1,50 @@
+img {
+    width : 40px;
+    height : 40px;
+    
+    
+}
+
+nav {
+    width: 5Opx;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+ 
+  
+}
+
+img2 {
+    width: 50px;
+    height: 50px;
+    align-items: end;
+    right: 30px;
+    
+}
+
+h1 {
+    color: black;
+    width: 450px;
+    height: 45px;
+    justify-content:center;
+}
+
+button {
+    color: red;
+    border: 1px solid red;
+    border-radius: 10px;
+    background-color: white;
+}
+
+iframe  {
+    width:450px;
+    height: 450px;
+}
+
+iframe  {
+    width: 450px;
+    height: 450px;
+}
+
+
